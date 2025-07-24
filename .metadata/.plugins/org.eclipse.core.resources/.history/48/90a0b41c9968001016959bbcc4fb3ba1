@@ -87,7 +87,7 @@ NOCACHE
 NOCYCLE;
 
 -- 시퀀스 생성된 것은 아래처럼 사용할 수 없다
--- SELECT * FROM SEQ_USER_NO;
+--SELECT * FROM SEQ_USER_NO;
 
 -- 시퀀스 사용
 INSERT INTO TBL_USER 
